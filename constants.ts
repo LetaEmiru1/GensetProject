@@ -1,0 +1,44 @@
+import { ChecklistItem } from './types';
+
+export const CONTRACTORS = ['PEEMS', 'WANE', 'BETA', 'OTHER'];
+
+export const LOCATIONS = [
+  'ABATTOIRS',
+  'AKAKI BESEKA ALEM BANK',
+  'ARAT KILO',
+  'AYAT',
+  'BETHEL',
+  'BOLE ROAD',
+  'BULGARIA',
+  'CAMPO ASMARA',
+  'COLSON STREET',
+  'GOJAM ROUTE',
+  'GULLELE MEDHANIALEM SCHOOL',
+  'HAILE GARMENT(LEBU)',
+  'HARAMBE FIL WUHA',
+  'JIMMA ROUTE WOLETE',
+  'KALITY CROWN',
+  'KALITY FALOGORA',
+  'KALITY GELAN',
+  'LAMBERET',
+  'MEGENAGNA',
+  'MERKATO AMANUEL',
+  'MERKATO RAS THEATRE',
+  'MERKATO SHENKORA BERENDA',
+  'MESKEL SQUARE',
+  'MINILQUE SQUARE',
+  'NIFAS SILK',
+  'PARTIORS SEBARA BABUR',
+  'SEBATEGNA MERKATO',
+  'STADIUM LALIBELA HOTEL',
+  'TATEK AMPHO MEDA',
+  'TULU DIMTU'
+];
+
+export const CHECKLIST_ITEMS: ChecklistItem[] = [
+  'Oil Change',
+  'Oil Filter Change',
+  'Fuel Filter Change',
+  'Air Cleaner Change',
+  'Air Cleaner Cleaning'
+];

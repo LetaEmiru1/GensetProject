@@ -1,0 +1,7 @@
+{
+  "name": "Genset Preventive Maintenance Log",
+  "description": "A digital logbook for generator maintenance tracking with auto-calculations and photo evidence storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
